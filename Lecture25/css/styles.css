@@ -1,0 +1,17 @@
+h1{
+    width:auto;
+    border-width: 3px;
+    text-align: center;
+}
+#header-nav{
+    background-color: maroon;
+}
+#bussiness_name{
+    font-size:xx-large;
+    color:black
+}
+#large-content-section{
+    background-color: thistle;
+    height: 1000px;
+    margin:10px;
+}
